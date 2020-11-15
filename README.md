@@ -13,4 +13,10 @@ Simply give yourself `gasmask` item and use it
 `Config.GasMaskNumber = 46`
 - Number of helmet you want to use as your gas mask. Go to shop and search in helmets. Once you find one which you like change this number
 
+## Dependencies
+
+- es_extended
+- esx_skin
+- skinchanger
+
 Please don't republish this script as your own. Thank you
