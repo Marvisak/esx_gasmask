@@ -8,6 +8,7 @@ Script for Gas mask which will make you take no damage from any smoke
 
 ## How to use
 Simply give yourself `gasmask` item and use it
+Use it again to take it off
 
 ## Configuration
 `Config.GasMaskNumber = 46`
